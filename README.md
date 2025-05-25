@@ -2,9 +2,6 @@
 
 Android Jetpack Compose app, for creating digital cards for the Conjure board game. 
 
-Copyright © 2025 Caoimhín Arnott and Jack Mehegan.
-All rights reserved.
-
 <br>
 
 <table align="center">
@@ -21,3 +18,5 @@ All rights reserved.
   </tr>
 </table>
 
+Copyright © 2025 Caoimhín Arnott and Jack Mehegan.
+All rights reserved.
