@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="standard_jet">#3A3335</color>
+    <color name="standard_cream">#FDF0D5</color>
+    <color name="standard_fawn">#FFB86F</color>
+    <color name="standard_rose_quartz">#B392AC</color>
+    <color name="standard_grey">#817E9F</color>
+    <color name="standard_light_grey">#A1A1A1</color>
+
+    <color name="highlight_sky_blue">#00BBF9</color>
+    <color name="highlight_pink">#FECEF1</color>
+    <color name="highlight_rose">#FF006E</color>
+
+    <color name="colorCrystalLight">#DB8BDE</color>
+    <color name="colorCrystal">#BD40C3</color>
+    <color name="colorCrystalDark">#790082</color>
+    <color name="colorHP">#CF1E2A</color>
+    <color name="colorAP">#0083B1</color>
+    <color name="colorMP">#B7D194</color>
+
+</resources>

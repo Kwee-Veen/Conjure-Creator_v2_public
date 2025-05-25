@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Creator</string>
+    <string name="text_Title">Title</string>
+    <string name="text_nameHint">Name</string>
+    <string name="text_moveNameHint">Move Name</string>
+    <string name="text_descriptionHint">Description</string>
+    <string name="text_effectDescriptionHint">Effect description</string>
+    <string name="button_addCardHint">Add Card</string>
+    <string name="button_editCardHint">Edit Card</string>
+    <string name="select_card_image">Select Card Image</string>
+    <string name="button_moves">Add New Move</string>
+    <string name="button_effects">Add Effect to New Move</string>
+    <string name="error_addCardInput">Card not added - please fill out all required fields</string>
+    <string name="button_addModifierHint">New Modifier</string>
+    <string name="title_browse">Card List</string>
+    <string name="empty_card_list">No cards yet - go add one</string>
+    <string name="empty_moves_list">No moves yet - go add one</string>
+    <string name="delete">Delete</string>
+    <string name="confirm_delete">Confirm Delete</string>
+    <string name="confirm_delete_message">Delete this card?</string>
+    <string name="confirm_delete_image_message">Delete this image?</string>
+    <string name="confirm_delete_move_message">Delete this move?</string>
+    <string name="confirm_delete_modifier_message">Delete this damage modifier?</string>
+    <string name="confirm_delete_effect_message">Delete this effect?</string>
+    <string name="filter_cards">Filter by Name</string>
+
+</resources>
