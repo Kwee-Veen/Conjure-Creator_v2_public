@@ -7,7 +7,7 @@ All rights reserved.
 
 <br>
 
-<table>
+<table align="center">
   <tr>
     <td><img src="https://github.com/user-attachments/assets/c9b066d1-2c01-49f2-b5eb-bf94bb333c22" style="width: 400px; max-width: 100%;"/></td>
     <td><img src="https://github.com/user-attachments/assets/6d8e0047-9ea2-4b02-97a4-ce2a5df3dac3" style="width: 400px; max-width: 100%;"/></td>
